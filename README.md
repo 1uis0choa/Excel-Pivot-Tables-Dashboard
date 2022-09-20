@@ -4,6 +4,9 @@ Below are the headers and top 40 rows of the data set.
 Credit to AlexTheAnalyst .. Dataset from his Excel-Tutorial / Excel Project Dataset.xlsx
 https://github.com/AlexTheAnalyst/Excel-Tutorial/blob/main/Excel%20Project%20Dataset.xlsx
 
+
+![image](https://user-images.githubusercontent.com/113081489/191317175-d167455b-30e6-45e9-8349-ed1d846aef21.png)
+
 ID	Marrital Status	Gender	Income	Children	Education	Occupation	Home Owner	Cars	Commute Distance	Region	Age	Age Bracket	Purchased Bike
 12496	Married	Female	$40,000.00	1	Bachelors	Skilled Manual	Yes	0	0-1 Miles	Europe	42	40-49	No
 24107	Married	Male	$30,000.00	3	Partial College	Clerical	Yes	1	0-1 Miles	Europe	43	40-49	No
